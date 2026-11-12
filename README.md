@@ -7,8 +7,12 @@ List MCP tools
 
 Restart the MCP server so Claude Code picks up the new jar and new description:
 ```
+To use it: start the server with java -jar target/sdd-mcp-server-0.1.0.jar
+```
+```
  claude mcp restart sdd-specs
 ```
+
 
 ---
 # Issues
