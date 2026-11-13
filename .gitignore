@@ -1,2 +1,15 @@
-sdd-mcp-server/
-my-site/
+# Build output
+**/target/
+**/node_modules/
+**/dist/
+
+# IDE
+**/.idea/
+**/*.iml
+**/.vscode/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
